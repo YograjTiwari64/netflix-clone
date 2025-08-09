@@ -21,7 +21,7 @@ Features:
 ### Clone this repository
 
 ```shell
-git clone https://github.com/nayak-nirmalya/netflix-clone
+git clone https://github.com/YograjTiwari64/netflix-clone
 ```
 
 ### Install packages
